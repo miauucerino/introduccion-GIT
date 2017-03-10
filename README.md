@@ -1,2 +1,3 @@
-# introduccion-GIT
-mi primer repositorio
+# Introducción a GIT
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque commodo pulvinar enim at porta. In eros felis, porta sed aliquet et, porttitor quis tellus. Morbi sagittis purus viverra nisl efficitur, quis iaculis augue feugiat. Phasellus sed eros lorem. Mauris semper dolor at dolor cursus semper. In a arcu porta, interdum felis vel, ultrices erat. Integer euismod tortor eu magna suscipit consectetur. Curabitur molestie metus id tincidunt tristique. Phasellus consectetur et nisi a finibus. Integer vulputate eu tortor et faucibus. Aliquam tincidunt dui id mi faucibus fringilla.
